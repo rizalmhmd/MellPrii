@@ -1,0 +1,18 @@
+{
+  "ownerNumber":  ["628811929177@s.whatsapp.net","6283890585717@s.whatsapp.net","6285849261085@s.whatsapp.net"],
+  "numberOwner": "628811929177",
+  "botName": "Loli - Bot",
+  "packname" : "Loli",
+  "author" : "Aprii",
+  "Prefix" : "Multi",
+  "sessionName": "botindo",
+  "Mode": "Public",
+  "pathImg": "./media/bobi.jpg",
+  "fakeImg": "./media/fake.jpg",
+  "gamewaktu": 60,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 100,
+	"user": 15
+  }
+}
